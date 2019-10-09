@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Archivo+Narrow&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Bangers&display=swap');
 
 body {
   font-family: 'Archivo Narrow', sans-serif;
@@ -68,6 +69,7 @@ h1 {
   margin-bottom: 1em;
   font-size: 1.4em;
   font-weight: bolder;
+    font-family: 'Bangers', cursive;
 }
 
 h2 {
